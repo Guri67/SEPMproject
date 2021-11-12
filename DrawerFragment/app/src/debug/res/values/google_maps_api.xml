@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=67:E5:FD:CD:31:E4:6E:45:85:F2:EB:B2:5C:BC:6F:F4:63:7C:90:F6%3Bnet.kayrio.drawerfragment
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    net.kayrio.drawerfragment
+
+    SHA-1 certificate fingerprint:
+    67:E5:FD:CD:31:E4:6E:45:85:F2:EB:B2:5C:BC:6F:F4:63:7C:90:F6
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyC0i0TByNKMS54SosrZONxp-0AsoXjQpBg</string>
+</resources>
